@@ -1,0 +1,14 @@
+{
+  "credentials": {
+    "valid": { "user": "admin", "password": "admin" },
+    "invalid": { "user": "1111", "password": "xxxx" }
+  },
+  "purchaseData": {
+    "name": "roberto",
+    "country": "austria",
+    "city": "melbur",
+    "creditCard": "4785478547854785",
+    "month": "10",
+    "year": "1999"
+  }
+}
